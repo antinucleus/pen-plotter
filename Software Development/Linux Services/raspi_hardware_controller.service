@@ -1,0 +1,10 @@
+[Unit]
+Description=Raspi Hardware Controller
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/home/oxygen/Desktop/PlotterController/embedded/run
+
+[Install]
+WantedBy=multi-user.target
