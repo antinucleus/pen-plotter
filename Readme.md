@@ -26,9 +26,13 @@ The graduation thesis project is a pen plotter machine. All mechanical, electron
 
 You can access the `mechatonic system design` report from the link below.
 
+MSD Report Link: [Mechatronic System Design Report](https://github.com/antinucleus/pen-plotter/blob/main/Reports/MST-Report.pdf)
+
 ## Final Report
 
 Due to the time problem during the project, there are some missing and unformatted sections in the final report. You can access the `final report` from the link below.
+
+Final Report Link: [Final Report](https://github.com/antinucleus/pen-plotter/blob/main/Reports/Final-Report.pdf)
 
 ## Contact
 
